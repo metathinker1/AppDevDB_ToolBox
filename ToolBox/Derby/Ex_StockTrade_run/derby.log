@@ -1,0 +1,11 @@
+Mon Jan 18 21:30:47 MST 2016 : Apache Derby Network Server - 10.9.1.0 - (1344872) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Jan 18 21:31:41 MST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0152-5826-3c36-0000764e6310 
+on database directory /Users/robertwood/AppDevDB/ToolBox/Derby/Ex_StockTrade_run/StockTrade  with class loader sun.misc.Launcher$AppClassLoader@a6eb38a 
+Loaded from file:/opt/db-derby-10.9.1.0-bin/lib/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-466.1-11M4716
+user.dir=/Users/robertwood/AppDevDB/ToolBox/Derby/Ex_StockTrade_run
+derby.system.home=/Users/robertwood/AppDevDB/ToolBox/Derby/Ex_StockTrade_run
+Database Class Loader started - derby.database.classpath=''
